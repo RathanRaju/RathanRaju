@@ -8,7 +8,7 @@
 
 🌐 My interactive CV lives at [rathanraju.pages.dev](https://rathanraju.pages.dev).
 
-Building a data team? I'd love to hear about it. I'm open to roles in the UK and abroad, and here's a quick look at what I work with day to day:
+Building a data team? I would love to hear about it. I'm open to roles in the UK and abroad, and here's a quick look at what I work with day to day:
 
 | Area | What I work with |
 | --- | --- |
@@ -38,9 +38,7 @@ And yes, please check my repositories too. They hold many of the data science an
 - [Sales Insights in Tableau](https://github.com/RathanRaju/Sales_Insights_Tableau)
 - [LangChain](https://github.com/RathanRaju/Langchain)
 
-Now, in terms of industrial experience: I started as a Data Analyst at Cognizant (2017 – 2020), then worked as a Data Scientist at CloudFM Group (2021 – 2023) and Harwin Group (2023). Since 2023 I've been a Senior Data Analyst at TSA Riley. Along the way I completed an MSc in Data Science at the University of Essex (2020 – 2022), after my Bachelor of Engineering from Visvesvaraya Technological University (2013 – 2017).
-
-I also mentor people who are getting into data (100+ so far). If you'd like some guidance, you can [apply for mentorship on MentorCruise](https://mentorcruise.com/mentor/rathanraju/). For consulting work, take a look at [Databert Consulting](https://www.databert.co.uk/).
+I also mentor people who are getting into data (100+ so far). If you woud like some guidance, you can [apply for mentorship on MentorCruise](https://mentorcruise.com/mentor/rathanraju/). For consulting work, take a look at [Databert Consulting](https://www.databert.co.uk/).
 
 If somehow you made it to the end, I'm really, really glad you got to know me a bit.
 
