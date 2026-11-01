@@ -42,4 +42,4 @@ I also mentor people who are getting into data (100+ so far). If you woud like s
 
 If somehow you made it to the end, I'm really, really glad you got to know me a bit.
 
-Thanks again - Rathan
+Thanks again
