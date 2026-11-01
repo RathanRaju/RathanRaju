@@ -6,7 +6,7 @@
 
 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/rathan-raju/) or just drop an email @ [rathanr51@gmail.com](mailto:rathanr51@gmail.com).
 
-🌐 My complete Professional Portfolio lives at [rathanraju.pages.dev](https://rathanraju.pages.dev).
+🌐 My complete Professional Portfolio lives at [rathanraju.pages.dev](https://portfolio.rathanraju.workers.dev/).
 
 Building a data team? I would love to hear about it. I'm open to roles in the UK and abroad, and here's a quick look at what I work with day to day:
 
